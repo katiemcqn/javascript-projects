@@ -15,9 +15,11 @@ let day = "Thursday";
 day = 32.5;
 day = 19;
 console.log(day);
-const input = require('readline-sync');
-
-let num1 = input.question("Enter a number: ");
-let num2 = input.question("Enter another number: ");
-
-console.log(num1 + num2);
+console.log(Boolean("true"));
+console.log(Boolean("TRUE"));
+console.log(Boolean(0));
+console.log(Boolean(1));
+console.log(Boolean(''));
+console.log(Boolean('LaunchCode'));
+console.log(5 == 5);
+console.log(5 == 6);
