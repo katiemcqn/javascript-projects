@@ -1,2 +1,8 @@
-let day = Wednesday;
-console.log(day;
+let day = "Wednesday";
+// missing ""
+
+
+console.log (day);
+// missing )
+// ')' expected.
+   
